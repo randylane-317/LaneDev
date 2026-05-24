@@ -624,13 +624,13 @@ function About() {
                 I&apos;m a Purdue University graduate and freelance software
                 &amp; web developer based in Indiana. My degree in Computer
                 &amp; Information Technology gave me a rigorous foundation in
-                software engineering, data systems, and problem-solving — so
-                when I build something, it&apos;s built right.
+                software engineering, data systems, and problem-solving, and
+                that background shows in everything I build.
               </p>
               <p>
                 I work with small businesses and startups that want a serious
                 online presence without agency prices. Clean code, fast load
-                times, and designs that convert — that&apos;s the standard I
+                times, and designs that convert. That&apos;s the standard I
                 hold every project to, whether it&apos;s a landing page, a
                 full business site, or a custom web app.
               </p>
